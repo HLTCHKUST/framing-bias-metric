@@ -36,14 +36,15 @@ Full article version (smaller subset): Not directly used in our paper, but relea
 * AllSides articles: **TODO**
 
 ## 2. Train Model
-Script to run
+Script to run 
 
 ## 3. Generate neutral summary
-1. evaluate your own model
+#### Evaluate your own model
 
 
-2. evaluate using our checkpoint
-
+#### Evaluate using our checkpoint
+1. Download our checkpoints from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save` path
+2. Run `bash generate_script.sh` with correct paths to model \& data
 
 
 ## 4. Evaluate (Metric)
