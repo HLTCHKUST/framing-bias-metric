@@ -4,7 +4,7 @@
 
 Code for "NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias", NAACL2022 [\[PDF\]](https://arxiv.org/pdf/2204.04902.pdf)
 
-<img align="right" src="img/HKUST.jpg" width="12%">
+<img align="right" src="img/HKUST.jpeg" width="12%">
 
 If you use any source codes or datasets included in this toolkit in your work, please cite the following paper. The bibtex is listed below:
 <pre>
