@@ -28,8 +28,8 @@ Run `data_preprocessing.ipynb`.
 ### Additional Details:
 Datasets are inside `data` folder:
 * `raw_crawled/` : contains crawled data from Allsides.com until 2021-10-19 (with all the meta dataset)
-* `acl2022_filtered_allsides_article.json` : filtered & preprocessed verion from `raw_crawled`. 
-* `acl2022_lrc_roundup_random_order_probe` : contains final train/val/test files used in our NeuS-Title model. 
+* `naacl2022_filtered_allsides_article.json` : filtered & preprocessed verion from `raw_crawled`. 
+* `naacl2022_lrc_roundup_random_order_probe` : contains final train/val/test files used in our NeuS-Title model. 
 
 Full article version (smaller subset): Not directly used in our paper, but releasing to help the community :blush:
 * BASIL (cite) extended (neutral): **TODO**
