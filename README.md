@@ -17,7 +17,9 @@ If you use any source codes or datasets included in this toolkit in your work, p
 </pre>
 
 ## 0. Setup
+Run `pip install -r requirement.txt` (**TODO: add requirement.txt**)
 
+Acknowledgement: Our codes are based on Huggingface's [Transformer](https://github.com/huggingface/transformers) codebase. 
 
 ## 1. Dataset & Pre-processing
 ### How?
@@ -39,13 +41,10 @@ Full article version (smaller subset): Not directly used in our paper, but relea
 Script to run 
 
 ## 3. Generate neutral summary
-#### Evaluate your own model
+1. Download our checkpoint from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save/` directory
+2. Run `bash generate_script.sh` with correct configurations (i.e. `PROJECT_DIR`, `OUTPUT_DIR`, `DATA_DIR`).
 
-
-#### Evaluate using our checkpoint
-1. Download our checkpoints from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save/` directory
-2. Run `bash generate_script.sh` with correct paths to model \& data
-
+If you want to generate using your own model checkpoint, change the `OUTPUT_DIR` to be the directory containing your model checkpoint. 
 
 ## 4. Evaluate (Metric)
 ### Lexicon Resources:
