@@ -38,7 +38,7 @@ Full article version (smaller subset): Not directly used in our paper, but relea
 * AllSides articles: **TODO**
 
 ## 2. Train Model
-Script to run 
+Run `bash finetune_neus_script.sh` with desired hyper-parameters \& correct configurations.
 
 ## 3. Generate neutral summary
 1. Download our checkpoint from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save/` directory
