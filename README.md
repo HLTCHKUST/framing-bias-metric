@@ -43,7 +43,7 @@ Script to run
 
 
 #### Evaluate using our checkpoint
-1. Download our checkpoints from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save` path
+1. Download our checkpoints from [here](https://drive.google.com/file/d/1z6tlfE0vxLN5x3UBYGHmO7EUDprBbUmW/view?usp=sharing) into `save/` directory
 2. Run `bash generate_script.sh` with correct paths to model \& data
 
 
