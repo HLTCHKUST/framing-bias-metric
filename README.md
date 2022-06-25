@@ -17,7 +17,7 @@ If you use any source codes or datasets included in this toolkit in your work, p
 </pre>
 
 ## 0. Setup
-Run `pip install -r requirement.txt` (**TODO: add requirement.txt**)
+Run `pip install -r requirement.txt`
 
 Acknowledgement: Our codes are based on Huggingface's [Transformer](https://github.com/huggingface/transformers) codebase. 
 
