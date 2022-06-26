@@ -37,8 +37,6 @@ Full article version (smaller subset): Not directly used in our paper, but relea
 * BASIL (cite) extended (neutral): Refer to https://github.com/nayeon7lee/framing_bias_datasets 
 * AllSides articles: Refer to https://github.com/nayeon7lee/framing_bias_datasets
 
-Although not used in our paper, we publicly release this version for anyone who might be interested 😄
-
 ## 2. Train Model
 Run `bash finetune_neus_script.sh` with desired hyper-parameters \& correct configurations.
 
